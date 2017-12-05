@@ -1,11 +1,11 @@
-### Chemicals Project 
+# Chemicals Project 
 
 ## Chemical Mixer
 
-# chemical-mixer dependiencies:
+### chemical-mixer dependiencies:
 python3, flask, pubchempy, wolframalpha
 
-# How to use chemical-mixer:
+### How to use chemical-mixer:
 Open the "chemical-mixer" folder and install dependencies.
 Run main.py. Then open up 127.0.0.1:5000 in the browser. 
 Input a PubChem CID to search. When each each search bar
@@ -17,16 +17,16 @@ solution is to select "Mix" again.
 
 ## Chemical Visualiszer
 
-# How to use chemical-visualizer
+### How to use chemical-visualizer
 Open the "chemical-visualizer" folder, then open "index.html" 
 in your browser. This is just a demo of two hydrogen atoms.
 
 ## JSON Scraper
 
-# JSON Scraper dependencies:
+### JSON Scraper dependencies:
 python3, pubchempy, flask
 
-# How to use JSON Scraper
+### How to use JSON Scraper
 Open the "json-scraper" folder. Add PubChem CIDs to "list_of_cids" 
 in "scrape.py." There are some already there to test out the 
 functionality. Run "./scrape.py." This should create a file, 
@@ -35,14 +35,14 @@ a JSON file.
 
 ## Multi PDF Parser
 
-# Dependencies:
+### Dependencies:
 python, pdfminer
 
 Requires a specific version of pdfminer to be installed.
 
 > sudo pip install --upgrade --ignore-installed slate==0.3 pdfminer==20110515
 
-# How to use:
+### How to use:
 Open the "multi-pdf-parser" folder. Create two folders, 'pdfs' and 'txt'. 
 Place PDFs you need to be converted into the folder 'pdfs'. After running
 > ./output.py
