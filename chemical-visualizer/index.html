@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Chem</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script type="text/javascript" src="js/paper-full.js"></script>
+  <script type="text/paperscript" canvas="canvas">
+    // Create a circle shaped path at the center of the view:
+    var start_point = new Point(80,80);
+
+    var H_e = new Path.Circle({
+      //center: view.center,
+      center: start_point,
+      radius: 10,
+      fillColor: 'blue'
+    });
+
+    start_point.x += 50;
+
+    var H_p = new Path.Circle({
+      center: start_point,
+      radius: 30,
+      fillColor: 'red'
+    });
+
+    start_point.y += 90;
+    start_point.x -= 50;
+
+    var H_e_2 = new Path.Circle({
+      center: start_point,
+      radius: 10,
+      fillColor: 'blue'
+    });
+
+
+    start_point.x += 50;
+
+    var H_p_2 = new Path.Circle({
+      center: start_point,
+      radius: 30,
+      fillColor: 'red'
+    });
+
+    // Install a drag event handler that moves the path along.
+    /*
+    path.onMouseDrag = function(event) {
+      path.position += event.delta;
+    }
+    path_2.onMouseDrag = function(event) {
+      path_2.position += event.delta;
+    }
+
+*/
+    var H = new Group([H_e, H_p]);
+    H.onMouseDrag = function(event) {
+      H.position += event.delta;
+    }
+
+    var H_2 = new Group([H_e_2, H_p_2]);
+    H_2.onMouseDrag = function(event) {
+      H_2.position += event.delta;
+    }
+
+  </script>
+</head>
+<body>
+    <canvas id="canvas" resize hidpi="off" style="background:black"></canvas>
+</body>
+<html>
