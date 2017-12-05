@@ -46,4 +46,6 @@ Requires a specific version of pdfminer to be installed.
 Open the "multi-pdf-parser" folder. Create two folders, 'pdfs' and 'txt'. 
 Place PDFs you need to be converted into the folder 'pdfs'. After running
 > ./output.py
+
 you should see the converted txt files in 'txt.'
+
