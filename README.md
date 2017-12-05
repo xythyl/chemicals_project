@@ -7,7 +7,11 @@ python3, flask, pubchempy, wolframalpha
 
 ### How to use chemical-mixer:
 Open the "chemical-mixer" folder and install dependencies.
-Run main.py. Then open up 127.0.0.1:5000 in the browser. 
+Run 
+
+> main.py
+
+Then open up 127.0.0.1:5000 in the browser. 
 Input a PubChem CID to search. When each each search bar
 has a PubChem CID, the "Mix" button can be selected. There
 is a short wait as the the server makes an api call to 
@@ -29,7 +33,11 @@ python3, pubchempy, flask
 ### How to use JSON Scraper
 Open the "json-scraper" folder. Add PubChem CIDs to "list_of_cids" 
 in "scrape.py." There are some already there to test out the 
-functionality. Run "./scrape.py." This should create a file, 
+functionality. Run 
+
+> ./scrape.py
+
+This should create a file, 
 "test.json" that has the information of the chemicals stored in 
 a JSON file.
 
