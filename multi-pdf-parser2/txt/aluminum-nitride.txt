@@ -1,0 +1,783 @@
+ 
+
+SIGMA-ALDRICH 
+
+sigma-aldrich.com 
+SAFETY DATA SHEET 
+Version 4.6 
+Revision Date 06/29/2014 
+Print Date 11/19/2017 
+
+ 
+1. PRODUCT AND COMPANY IDENTIFICATION 
+
+1.1 
+
+Product identifiers 
+Product name 
+
+:  Aluminum nitride 
+
+Product Number 
+Brand 
+ 
+CAS-No. 
+
+ 
+
+:  241903 
+:  Aldrich 
+ 
+:  24304-00-5 
+
+ 
+
+1.2  Relevant identified uses of the substance or mixture and uses advised against 
+
+Identified uses 
+
+:  Laboratory chemicals, Manufacture of substances 
+
+1.3  Details of the supplier of the safety data sheet 
+
+Company 
+
+:  Sigma-Aldrich 
+
+ 
+Telephone 
+Fax 
+
+3050 Spruce Street 
+SAINT LOUIS MO  63103 
+USA 
+
+:  +1 800-325-5832 
+:  +1 800-325-5052 
+
+1.4 
+
+Emergency telephone number 
+
+Emergency Phone # 
+
+:  +1-703-527-3887 (CHEMTREC) 
+
+ 
+2. HAZARDS IDENTIFICATION 
+
+2.1  Classification of the substance or mixture 
+
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS) 
+Skin corrosion (Category 1B), H314 
+Serious eye damage (Category 1), H318 
+Specific target organ toxicity - single exposure (Category 3), Respiratory system, H335 
+
+For the full text of the H-Statements mentioned in this Section, see Section 16. 
+
+2.2  GHS Label elements, including precautionary statements 
+
+Pictogram 
+
+ 
+Signal word 
+ 
+Hazard statement(s) 
+H314 
+H335 
+ 
+Precautionary statement(s) 
+P260 
+P264 
+P271 
+P280 
+
+P301 + P330 + P331 
+P303 + P361 + P353 
+
+P304 + P340 
+
+ 
+
+Danger 
+
+Causes severe skin burns and eye damage. 
+May cause respiratory irritation. 
+
+Do not breathe dust or mist. 
+Wash skin thoroughly after handling. 
+Use only outdoors or in a well-ventilated area. 
+Wear protective gloves/ protective clothing/ eye protection/ face 
+protection. 
+IF SWALLOWED: rinse mouth. Do NOT induce vomiting. 
+IF ON SKIN (or hair): Remove/ Take off immediately all contaminated 
+clothing. Rinse skin with water/ shower. 
+IF INHALED: Remove victim to fresh air and keep at rest in a position 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 1  of  7 
+
+ 
+
+P305 + P351 + P338 
+
+P310 
+P321 
+P363 
+P403 + P233 
+P405 
+P501 
+ 
+
+comfortable for breathing. 
+IF IN EYES: Rinse cautiously with water for several minutes. Remove 
+contact lenses, if present and easy to do. Continue rinsing. 
+Immediately call a POISON CENTER or doctor/ physician. 
+Specific treatment (see supplemental first aid instructions on this label). 
+Wash contaminated clothing before reuse. 
+Store in a well-ventilated place. Keep container tightly closed. 
+Store locked up. 
+Dispose of contents/ container to an approved waste disposal plant. 
+
+2.3  Hazards not otherwise classified (HNOC) or not covered by GHS - none 
+ 
+3. COMPOSITION/INFORMATION ON INGREDIENTS 
+
+3.1 
+
+Substances 
+Formula 
+Molecular Weight 
+CAS-No. 
+EC-No. 
+ 
+Hazardous components 
+Component 
+
+Aluminium nitride 
+ 
+
+ 
+
+ 
+
+:  AlN  
+:  40.99 g/mol 
+:  24304-00-5 
+:  246-140-8 
+
+Classification 
+
+Concentration 
+
+Skin Corr. 1B; Eye Dam. 1; 
+STOT SE 3; H314, H335 
+
+ -  
+
+For the full text of the H-Statements mentioned in this Section, see Section 16. 
+
+ 
+4. FIRST AID MEASURES 
+
+4.1  Description of first aid measures 
+
+General advice 
+Move out of dangerous area.Consult a physician. Show this safety data sheet to the doctor in attendance. 
+
+If inhaled 
+If breathed in, move person into fresh air. If not breathing, give artificial respiration. Consult a physician. 
+
+In case of skin contact 
+Take off contaminated clothing and shoes immediately. Wash off with soap and plenty of water. Consult a physician. 
+
+In case of eye contact 
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.Continue rinsing eyes during 
+transport to hospital. 
+
+If swallowed 
+Do NOT induce vomiting. Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a 
+physician. 
+
+4.2  Most important symptoms and effects, both acute and delayed 
+
+The most important known symptoms and effects are described in the labelling (see section 2.2) and/or in section 11 
+
+4.3 
+
+Indication of any immediate medical attention and special treatment needed 
+no data available 
+
+ 
+5. FIREFIGHTING MEASURES 
+
+5.1 
+
+Extinguishing media 
+
+Suitable extinguishing media 
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide. 
+
+5.2 
+
+Special hazards arising from the substance or mixture 
+nitrogen oxides (NOx), Aluminum oxide 
+
+5.3  Advice for firefighters 
+
+Wear self contained breathing apparatus for fire fighting if necessary. 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 2  of  7 
+
+ 
+5.4 
+
+Further information 
+no data available 
+
+ 
+6. ACCIDENTAL RELEASE MEASURES 
+
+6.1 
+
+Personal precautions, protective equipment and emergency procedures 
+Use personal protective equipment. Avoid dust formation. Avoid breathing vapours, mist or gas. Ensure adequate 
+ventilation. Evacuate personnel to safe areas. Avoid breathing dust. 
+For personal protection see section 8. 
+
+6.2 
+
+Environmental precautions 
+Do not let product enter drains. 
+
+6.3  Methods and materials for containment and cleaning up 
+
+Pick up and arrange disposal without creating dust. Sweep up and shovel. Keep in suitable, closed containers for 
+disposal. 
+
+6.4  Reference to other sections 
+
+For disposal see section 13. 
+
+ 
+7. HANDLING AND STORAGE 
+
+7.1 
+
+Precautions for safe handling 
+Avoid contact with skin and eyes. Avoid formation of dust and aerosols. 
+Provide appropriate exhaust ventilation at places where dust is formed. 
+For precautions see section 2.2. 
+
+7.2  Conditions for safe storage, including any incompatibilities 
+Keep container tightly closed in a dry and well-ventilated place.  
+
+Moisture sensitive. Handle and store under inert gas. Keep in a dry place.  
+
+7.3 
+
+Specific end use(s) 
+Apart from the uses mentioned in section 1.2 no other specific uses are stipulated 
+
+ 
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION 
+
+8.1  Control parameters 
+
+Components with workplace control parameters 
+Contains no substances with occupational exposure limit values. 
+
+8.2 
+
+Exposure controls 
+
+Appropriate engineering controls 
+Handle in accordance with good industrial hygiene and safety practice. Wash hands before breaks and at the end of 
+workday. 
+
+Personal protective equipment 
+
+Eye/face protection 
+Face shield and safety glasses Use equipment for eye protection tested and approved under appropriate 
+government standards such as NIOSH (US) or EN 166(EU). 
+
+Skin protection 
+Handle with gloves. Gloves must be inspected prior to use. Use proper glove removal technique (without 
+touching glove's outer surface) to avoid skin contact with this product. Dispose of contaminated gloves after 
+use in accordance with applicable laws and good laboratory practices. Wash and dry hands. 
+ 
+Full contact 
+Material: Nitrile rubber 
+Minimum layer thickness: 0.11 mm 
+Break through time: 480 min 
+Material tested:Dermatril® (KCL 740 / Aldrich Z677272, Size M) 
+ 
+Splash contact 
+Material: Nitrile rubber 
+Minimum layer thickness: 0.11 mm 
+Break through time: 480 min 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 3  of  7 
+
+ 
+
+Material tested:Dermatril® (KCL 740 / Aldrich Z677272, Size M) 
+ 
+data source: KCL GmbH, D-36124 Eichenzell, phone +49 (0)6659 87300, e-mail sales@kcl.de, test method: 
+EN374 
+If used in solution, or mixed with other substances, and under conditions which differ from EN 374, contact the 
+supplier of the CE approved gloves. This recommendation is advisory only and must be evaluated by an 
+industrial hygienist and safety officer familiar with the specific situation of anticipated use by our customers. It 
+should not be construed as offering an approval for any specific use scenario. 
+ 
+Body Protection 
+Complete suit protecting against chemicals, The type of protective equipment must be selected according to 
+the concentration and amount of the dangerous substance at the specific workplace. 
+
+Respiratory protection 
+Where risk assessment shows air-purifying respirators are appropriate use a full-face particle respirator type 
+N100 (US) or type P3 (EN 143) respirator cartridges as a backup to engineering controls. If the respirator is the 
+sole means of protection, use a full-face supplied air respirator. Use respirators and components tested and 
+approved under appropriate government standards such as NIOSH (US) or CEN (EU). 
+
+Control of environmental exposure 
+Do not let product enter drains. 
+
+ 
+9. PHYSICAL AND CHEMICAL PROPERTIES 
+
+9.1 
+
+Information on basic physical and chemical properties 
+
+a)  Appearance 
+
+Form: powder 
+
+b)  Odour 
+
+no data available 
+
+c)  Odour Threshold 
+
+no data available 
+
+d)  pH 
+
+no data available 
+
+e)  Melting point/freezing 
+
+Melting point/range: > 2,200 °C (> 3,992 °F) - lit. 
+
+point 
+
+f) 
+
+Initial boiling point and 
+boiling range 
+
+no data available 
+
+g)  Flash point 
+
+not applicable  
+
+h)  Evapouration rate 
+
+no data available 
+
+i)  Flammability (solid, gas)  no data available 
+
+j)  Upper/lower 
+
+no data available 
+
+flammability or 
+explosive limits 
+
+k)  Vapour pressure 
+
+no data available 
+
+l)  Vapour density 
+
+no data available 
+
+m)  Relative density 
+
+3.26 g/cm3 at 25 °C (77 °F) 
+
+n)  Water solubility 
+
+no data available 
+
+o)  Partition coefficient: n-
+
+no data available 
+
+octanol/water 
+
+p)  Auto-ignition 
+temperature 
+
+no data available 
+
+q)  Decomposition 
+
+no data available 
+
+temperature 
+
+r)  Viscosity 
+
+no data available 
+
+s)  Explosive properties 
+
+no data available 
+
+t)  Oxidizing properties 
+
+no data available 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 4  of  7 
+
+ 
+9.2  Other safety information 
+
+no data available 
+
+ 
+10. STABILITY AND REACTIVITY 
+
+10.1  Reactivity 
+
+no data available 
+
+10.2  Chemical stability 
+
+Stable under recommended storage conditions. 
+
+10.3  Possibility of hazardous reactions 
+
+no data available 
+
+10.4  Conditions to avoid 
+
+no data available 
+
+10.5 
+
+Incompatible materials 
+Strong oxidizing agents, acids, Bases 
+
+10.6  Hazardous decomposition products 
+
+Other decomposition products - no data available 
+In the event of fire: see section 5 
+
+ 
+11. TOXICOLOGICAL INFORMATION 
+
+11.1 
+
+Information on toxicological effects 
+
+Acute toxicity 
+no data available 
+
+Inhalation: no data available 
+
+Dermal: no data available 
+
+no data available 
+
+Skin corrosion/irritation 
+no data available 
+
+Serious eye damage/eye irritation 
+no data available 
+
+Respiratory or skin sensitisation 
+no data available 
+
+Germ cell mutagenicity 
+no data available 
+ 
+Carcinogenicity 
+
+IARC: 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as 
+probable, possible or confirmed human carcinogen by IARC. 
+
+ACGIH: 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as a 
+carcinogen or potential carcinogen by ACGIH. 
+
+NTP: 
+
+OSHA: 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as a 
+known or anticipated carcinogen by NTP. 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as a 
+carcinogen or potential carcinogen by OSHA. 
+
+Reproductive toxicity 
+no data available 
+
+no data available 
+
+Specific target organ toxicity - single exposure 
+no data available 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 5  of  7 
+
+ 
+
+Specific target organ toxicity - repeated exposure 
+no data available 
+
+Aspiration hazard 
+no data available 
+
+Additional Information 
+RTECS: Not available 
+ 
+To the best of our knowledge, the chemical, physical, and toxicological properties have not been thoroughly 
+investigated., Cough, Shortness of breath, Headache, Nausea, Vomiting 
+ 
+
+ 
+12. ECOLOGICAL INFORMATION 
+
+12.1  Toxicity 
+
+no data available 
+
+12.2  Persistence and degradability 
+
+no data available 
+
+12.3  Bioaccumulative potential 
+
+no data available 
+
+12.4  Mobility in soil 
+
+no data available 
+
+12.5  Results of PBT and vPvB assessment 
+
+PBT/vPvB assessment not available as chemical safety assessment not required/not conducted 
+
+12.6  Other adverse effects 
+
+ 
+no data available 
+
+ 
+13. DISPOSAL CONSIDERATIONS 
+
+13.1  Waste treatment methods 
+
+Product 
+Offer surplus and non-recyclable solutions to a licensed disposal company. Contact a licensed professional waste 
+disposal service to dispose of this material. Dissolve or mix the material with a combustible solvent and burn in a 
+chemical incinerator equipped with an afterburner and scrubber.  
+
+Contaminated packaging 
+Dispose of as unused product.  
+
+ 
+14. TRANSPORT INFORMATION 
+
+Class: 4.3 (8) 
+
+Packing group: III 
+
+DOT (US) 
+UN number: 3131 
+Proper shipping name: Water-reactive solid, corrosive, n.o.s. (Aluminium nitride) 
+Reportable Quantity (RQ):   
+Marine pollutant: No 
+Poison Inhalation Hazard: No 
+ 
+IMDG 
+UN number: 3131 
+Proper shipping name: WATER-REACTIVE SOLID, CORROSIVE, N.O.S. (Aluminium nitride) 
+Marine pollutant: No 
+ 
+IATA 
+UN number: 3131 
+Proper shipping name: Water-reactive solid, corrosive, n.o.s. (Aluminium nitride) 
+
+Packing group: III 
+
+Class: 4.3 (8) 
+
+Packing group: III 
+
+EMS-No: F-G, S-L 
+
+Class: 4.3 (8) 
+
+ 
+15. REGULATORY INFORMATION 
+
+SARA 302 Components 
+SARA 302: No chemicals in this material are subject to the reporting requirements of SARA Title III, Section 302. 
+
+Aldrich - 241903 
+
+ 
+
+ 
+
+Page 6  of  7 
+
+ 
+
+SARA 313 Components 
+SARA 313: This material does not contain any chemical components with known CAS numbers that exceed the 
+threshold (De Minimis) reporting levels established by SARA Title III, Section 313. 
+
+SARA 311/312 Hazards 
+Reactivity Hazard, Acute Health Hazard 
+
+Massachusetts Right To Know Components 
+No components are subject to the Massachusetts Right to Know Act. 
+
+Pennsylvania Right To Know Components 
+ 
+Aluminium nitride 
+
+New Jersey Right To Know Components 
+ 
+Aluminium nitride 
+
+CAS-No. 
+24304-00-5 
+
+Revision Date 
+ 
+
+CAS-No. 
+24304-00-5 
+
+Revision Date 
+ 
+
+California Prop. 65 Components 
+This product does not contain any chemicals known to State of California to cause cancer, birth defects, or any other 
+reproductive harm. 
+
+ 
+ 
+ 
+16. OTHER INFORMATION 
+
+Full text of H-Statements referred to under sections 2 and 3. 
+
+Eye Dam. 
+H314 
+H318 
+H335 
+Skin Corr. 
+STOT SE 
+
+Serious eye damage 
+Causes severe skin burns and eye damage. 
+Causes serious eye damage.  
+May cause respiratory irritation. 
+Skin corrosion 
+Specific target organ toxicity - single exposure 
+
+HMIS Rating 
+Health hazard: 
+Chronic Health Hazard: 
+Flammability: 
+Physical Hazard 
+
+NFPA Rating 
+Health hazard: 
+Fire Hazard: 
+Reactivity Hazard: 
+Special hazard.I: 
+
+3 
+ 
+3 
+1 
+
+3 
+0 
+1 
+W 
+
+Further information 
+Copyright 2014 Sigma-Aldrich Co. LLC. License granted to make unlimited paper copies for internal use only. 
+The above information is believed to be correct but does not purport to be all inclusive and shall be used only as a 
+guide. The information in this document is based on the present state of our knowledge and is applicable to the 
+product with regard to appropriate safety precautions. It does not represent any guarantee of the properties of the 
+product. Sigma-Aldrich Corporation and its Affiliates shall not be held liable for any damage resulting from handling 
+or from contact with the above product. See www.sigma-aldrich.com and/or the reverse side of invoice or packing 
+slip for additional terms and conditions of sale. 
+ 
+
+Preparation Information 
+Sigma-Aldrich Corporation 
+Product Safety – Americas Region 
+1-800-521-8956 
+ 
+Version: 4.6 
+
+ 
+ 
+
+Aldrich - 241903 
+
+ 
+
+Revision Date: 06/29/2014 
+
+Print Date: 11/19/2017 
+
+ 
+
+Page 7  of  7 
+
+

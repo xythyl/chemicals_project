@@ -1,0 +1,928 @@
+ 
+SIGMA-ALDRICH 
+
+ 
+1. PRODUCT AND COMPANY IDENTIFICATION 
+
+1.1 
+
+Product identifiers 
+Product name 
+
+Product Number 
+Brand 
+ 
+CAS-No. 
+
+:  Sodium 
+
+ 
+
+:  483745 
+:  Aldrich 
+ 
+:  7440-23-5 
+
+ 
+
+sigma-aldrich.com 
+SAFETY DATA SHEET 
+Version 4.14 
+Revision Date 09/27/2017 
+Print Date 11/20/2017 
+
+1.2  Relevant identified uses of the substance or mixture and uses advised against 
+
+Identified uses 
+
+:  Laboratory chemicals, Synthesis of substances 
+
+1.3  Details of the supplier of the safety data sheet 
+
+Company 
+
+:  Sigma-Aldrich 
+
+ 
+
+ 
+Telephone 
+Fax 
+
+3050 Spruce Street 
+SAINT LOUIS MO  63103 
+USA 
+
+:  +1 800-325-5832 
+:  +1 800-325-5052 
+
+1.4 
+
+Emergency telephone number 
+
+Emergency Phone # 
+
+:  +1-703-527-3887 (CHEMTREC) 
+
+ 
+2. HAZARDS IDENTIFICATION 
+
+2.1  Classification of the substance or mixture 
+
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS) 
+Substances and mixtures, which in contact with water, emit flammable gases (Category 1), H260 
+Skin corrosion (Category 1B), H314 
+Serious eye damage (Category 1), H318 
+Carcinogenicity (Category 1A), H350 
+
+For the full text of the H-Statements mentioned in this Section, see Section 16. 
+
+2.2  GHS Label elements, including precautionary statements 
+
+Pictogram 
+
+ 
+
+Signal word 
+
+ 
+Hazard statement(s) 
+
+H260 
+
+H314 
+H318 
+H350 
+
+ 
+
+Precautionary statement(s) 
+P201 
+P202 
+
+P223 
+
+Aldrich - 483745 
+
+Danger 
+
+ 
+
+In contact with water releases flammable gases which may ignite 
+spontaneously. 
+Causes severe skin burns and eye damage. 
+Causes serious eye damage. 
+May cause cancer. 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and 
+understood. 
+Keep away from any possible contact with water, because of violent 
+reaction and possible flash fire. 
+
+Page 1  of  8 
+
+ 
+
+P231 + P232 
+P260 
+P264 
+P280 
+
+P281 
+P301 + P330 + P331 
+P303 + P361 + P353 
+
+P304 + P340 + P310 
+
+P305 + P351 + P338 + P310 
+
+P308 + P313 
+P335 + P334 
+
+P363 
+P370 + P378 
+
+P402 + P404 
+P405 
+P501 
+
+ 
+
+Handle under inert gas. Protect from moisture. 
+Do not breathe dust or mist. 
+Wash skin thoroughly after handling. 
+Wear protective gloves/ protective clothing/ eye protection/ face 
+protection. 
+Use personal protective equipment as required. 
+IF SWALLOWED: Rinse mouth. Do NOT induce vomiting. 
+IF ON SKIN (or hair): Remove/ Take off immediately all contaminated 
+clothing. Rinse skin with water/ shower. 
+IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing. Immediately call a POISON CENTER or 
+doctor/ physician. 
+IF IN EYES: Rinse cautiously with water for several minutes. Remove 
+contact lenses, if present and easy to do. Continue rinsing. Immediately 
+call a POISON CENTER/doctor. 
+IF exposed or concerned: Get medical advice/ attention. 
+Brush off loose particles from skin. Immerse in cool water/ wrap in wet 
+bandages. 
+Wash contaminated clothing before reuse. 
+In case of fire: Use dry sand, dry chemical or alcohol-resistant foam for 
+extinction. 
+Store in a dry place. Store in a closed container. 
+Store locked up. 
+Dispose of contents/ container to an approved waste disposal plant. 
+
+2.3  Hazards not otherwise classified (HNOC) or not covered by GHS 
+
+Reacts violently with water. 
+
+ 
+3. COMPOSITION/INFORMATION ON INGREDIENTS 
+
+3.2  Mixtures 
+
+Formula 
+Molecular weight 
+
+ 
+Hazardous components 
+
+Component 
+
+:  Na 
+:  22.99 g/mol 
+
+Sodium 
+ 
+
+CAS-No. 
+EC-No. 
+Index-No. 
+ 
+
+Paraffin oils 
+ 
+
+CAS-No. 
+EC-No. 
+ 
+
+7440-23-5 
+231-132-9 
+011-001-00-0 
+ 
+
+8012-95-1 
+232-384-2 
+ 
+
+Classification 
+
+Concentration 
+
+Water-react. 1; Skin Corr. 1B; 
+Eye Dam. 1; H260, H314 
+
+90 - 100 % 
+
+Asp. Tox. 1; H304 
+
+90 - 100 % 
+
+For the full text of the H-Statements mentioned in this Section, see Section 16. 
+
+ 
+ 
+ 
+ 
+4. FIRST AID MEASURES 
+
+4.1  Description of first aid measures 
+
+General advice 
+Consult a physician. Show this safety data sheet to the doctor in attendance.Move out of dangerous area. 
+
+If inhaled 
+If breathed in, move person into fresh air. If not breathing, give artificial respiration. Consult a physician. 
+
+In case of skin contact 
+Take off contaminated clothing and shoes immediately. Wash off with soap and plenty of water. Consult a physician. 
+
+Aldrich - 483745 
+
+Page 2  of  8 
+
+ 
+
+In case of eye contact 
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.Continue rinsing eyes during 
+transport to hospital. 
+
+If swallowed 
+Do NOT induce vomiting. Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a 
+physician. 
+
+4.2  Most important symptoms and effects, both acute and delayed 
+
+The most important known symptoms and effects are described in the labelling (see section 2.2) and/or in section 11 
+ 
+
+4.3 
+
+Indication of any immediate medical attention and special treatment needed 
+No data available 
+
+ 
+5. FIREFIGHTING MEASURES 
+
+5.1 
+
+Extinguishing media 
+
+Suitable extinguishing media 
+Dry powder 
+
+5.2 
+
+Special hazards arising from the substance or mixture 
+No data available 
+
+5.3  Advice for firefighters 
+
+Wear self-contained breathing apparatus for firefighting if necessary. 
+
+5.4 
+
+Further information 
+No data available 
+
+ 
+6. ACCIDENTAL RELEASE MEASURES 
+
+6.1 
+
+Personal precautions, protective equipment and emergency procedures 
+Use personal protective equipment. Avoid dust formation. Avoid breathing vapours, mist or gas. Ensure adequate 
+ventilation. Evacuate personnel to safe areas. Avoid breathing dust. 
+For personal protection see section 8. 
+
+6.2 
+
+Environmental precautions 
+Prevent further leakage or spillage if safe to do so. Do not let product enter drains. 
+
+6.3  Methods and materials for containment and cleaning up 
+
+Sweep up and shovel. Contain spillage, and then collect with an electrically protected vacuum cleaner or by wet-
+brushing and place in container for disposal according to local regulations (see section 13). Do not flush with water. 
+Keep in suitable, closed containers for disposal. 
+
+6.4  Reference to other sections 
+
+For disposal see section 13. 
+
+ 
+7. HANDLING AND STORAGE 
+
+7.1 
+
+Precautions for safe handling 
+Avoid formation of dust and aerosols.Further processing of solid materials may result in the formation of combustible 
+dusts. The potential for combustible dust formation should be taken into consideration before additional processing 
+occurs. 
+Provide appropriate exhaust ventilation at places where dust is formed.Keep away from sources of ignition - No smoking. 
+For precautions see section 2.2. 
+
+7.2  Conditions for safe storage, including any incompatibilities 
+Keep container tightly closed in a dry and well-ventilated place.  
+Never allow product to get in contact with water during storage. 
+
+Handle and store under inert gas. Air sensitive.  
+
+7.3 
+
+Specific end use(s) 
+Apart from the uses mentioned in section 1.2 no other specific uses are stipulated 
+
+Aldrich - 483745 
+
+Page 3  of  8 
+
+ 
+ 
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION 
+
+8.1  Control parameters 
+
+Components with workplace control parameters 
+Component 
+
+CAS-No. 
+
+Value 
+
+Paraffin oils 
+
+8012-95-1 
+
+TWA 
+
+Control 
+parameters 
+5 mg/m3 
+
+ 
+
+TWA 
+
+5 mg/m3 
+
+Basis 
+
+USA. Occupational Exposure Limits 
+(OSHA) - Table Z-1 Limits for Air 
+Contaminants 
+USA. ACGIH Threshold Limit Values 
+(TLV) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Remarks 
+
+ 
+
+ 
+
+ 
+
+Upper Respiratory Tract irritation 
+Not classifiable as a human carcinogen 
+TWA 
+
+5 mg/m3 
+
+ST 
+
+10 mg/m3 
+
+USA. NIOSH Recommended 
+Exposure Limits 
+USA. NIOSH Recommended 
+Exposure Limits 
+California permissible exposure 
+limits for chemical contaminants 
+(Title 8, Article 107) 
+As sampled by method that does not collect vapor. 
+
+5 mg/m3 
+
+PEL 
+
+ 
+Hazardous components without workplace control parameters 
+
+ 
+
+8.2 
+
+Exposure controls 
+
+Appropriate engineering controls 
+Handle in accordance with good industrial hygiene and safety practice. Wash hands before breaks and at the end of 
+workday. 
+
+Personal protective equipment 
+
+Eye/face protection 
+Face shield and safety glasses Use equipment for eye protection tested and approved under appropriate 
+government standards such as NIOSH (US) or EN 166(EU). 
+
+Skin protection 
+Handle with gloves. Gloves must be inspected prior to use. Use proper glove removal technique (without 
+touching glove's outer surface) to avoid skin contact with this product. Dispose of contaminated gloves after 
+use in accordance with applicable laws and good laboratory practices. Wash and dry hands. 
+ 
+Full contact 
+Material: Nitrile rubber 
+Minimum layer thickness: 0.11 mm 
+Break through time: 480 min 
+Material tested:Dermatril® (KCL 740 / Aldrich Z677272, Size M) 
+ 
+Splash contact 
+Material: Nitrile rubber 
+Minimum layer thickness: 0.11 mm 
+Break through time: 480 min 
+Material tested:Dermatril® (KCL 740 / Aldrich Z677272, Size M) 
+ 
+data source: KCL GmbH, D-36124 Eichenzell, phone +49 (0)6659 87300, e-mail sales@kcl.de, test method: 
+EN374 
+If used in solution, or mixed with other substances, and under conditions which differ from EN 374, contact the 
+supplier of the CE approved gloves. This recommendation is advisory only and must be evaluated by an 
+industrial hygienist and safety officer familiar with the specific situation of anticipated use by our customers. It 
+should not be construed as offering an approval for any specific use scenario. 
+ 
+Body Protection 
+Complete suit protecting against chemicals, Flame retardant protective clothing, The type of protective 
+equipment must be selected according to the concentration and amount of the dangerous substance at the 
+specific workplace. 
+
+Aldrich - 483745 
+
+Page 4  of  8 
+
+ 
+
+Respiratory protection 
+Where risk assessment shows air-purifying respirators are appropriate use a full-face particle respirator type 
+N100 (US) or type P3 (EN 143) respirator cartridges as a backup to engineering controls. If the respirator is the 
+sole means of protection, use a full-face supplied air respirator. Use respirators and components tested and 
+approved under appropriate government standards such as NIOSH (US) or CEN (EU). 
+
+Control of environmental exposure 
+Prevent further leakage or spillage if safe to do so. Do not let product enter drains. 
+
+ 
+9. PHYSICAL AND CHEMICAL PROPERTIES 
+
+9.1 
+
+Information on basic physical and chemical properties 
+
+a)  Appearance 
+
+Form: Pieces 
+
+b)  Odour 
+
+No data available 
+
+c)  Odour Threshold 
+
+No data available 
+
+d)  pH 
+
+No data available 
+
+e)  Melting point/freezing 
+
+Melting point/range: 97.8 °C (208.0 °F) - lit. 
+
+point 
+
+f) 
+
+Initial boiling point and 
+boiling range 
+
+883 °C (1,621 °F) - lit. 
+
+g)  Flash point 
+
+82 °C (180 °F) 
+
+h)  Evaporation rate 
+
+No data available 
+
+i)  Flammability (solid, gas)  No data available 
+
+j)  Upper/lower 
+
+No data available 
+
+flammability or 
+explosive limits 
+
+k)  Vapour pressure 
+
+No data available 
+
+l)  Vapour density 
+
+No data available 
+
+m)  Relative density 
+
+0.97 g/cm3 
+
+n)  Water solubility 
+
+No data available 
+
+o)  Partition coefficient: n-
+
+No data available 
+
+octanol/water 
+
+p)  Auto-ignition 
+temperature 
+
+No data available 
+
+q)  Decomposition 
+
+No data available 
+
+temperature 
+
+r)  Viscosity 
+
+No data available 
+
+s)  Explosive properties 
+
+No data available 
+
+t)  Oxidizing properties 
+
+No data available 
+
+9.2  Other safety information 
+
+No data available 
+
+ 
+10. STABILITY AND REACTIVITY 
+
+10.1  Reactivity 
+
+No data available 
+
+10.2  Chemical stability 
+
+Stable under recommended storage conditions. 
+
+10.3  Possibility of hazardous reactions 
+
+Reacts violently with water. 
+
+Aldrich - 483745 
+
+Page 5  of  8 
+
+ 
+
+10.4  Conditions to avoid 
+
+Air Do not allow water to enter container. 
+Exposure to moisture 
+
+10.5 
+
+Incompatible materials 
+Oxidizing agents 
+
+10.6  Hazardous decomposition products 
+
+Other decomposition products - No data available 
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, Sodium oxides 
+In the event of fire: see section 5 
+
+ 
+11. TOXICOLOGICAL INFORMATION 
+
+11.1 
+
+Information on toxicological effects 
+
+Acute toxicity 
+No data available 
+
+Inhalation: No data available 
+
+Dermal: No data available 
+
+No data available 
+
+Skin corrosion/irritation 
+No data available 
+
+Serious eye damage/eye irritation 
+No data available 
+
+Respiratory or skin sensitisation 
+No data available 
+
+Germ cell mutagenicity 
+No data available 
+ 
+ 
+
+Carcinogenicity 
+
+IARC: 
+
+NTP: 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as 
+probable, possible or confirmed human carcinogen by IARC. 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as a 
+known or anticipated carcinogen by NTP. 
+
+OSHA: 
+
+No component of this product present at levels greater than or equal to 0.1% is identified as a 
+carcinogen or potential carcinogen by OSHA. 
+
+Reproductive toxicity 
+No data available 
+No data available 
+
+Specific target organ toxicity - single exposure 
+No data available 
+
+Specific target organ toxicity - repeated exposure 
+No data available 
+
+Aspiration hazard 
+No data available 
+
+Additional Information 
+RTECS: Not available 
+ 
+burning sensation, Cough, wheezing, laryngitis, Shortness of breath, spasm, inflammation and edema of the larynx, 
+spasm, inflammation and edema of the bronchi, pneumonitis, pulmonary edema, Material is extremely destructive to 
+tissue of the mucous membranes and upper respiratory tract, eyes, and skin., Aspiration may lead to:, lipid pneumonia, 
+Effects due to ingestion may include:, laxative effect, Gastrointestinal disturbance, To the best of our knowledge, the 
+chemical, physical, and toxicological properties have not been thoroughly investigated. 
+ 
+
+Aldrich - 483745 
+
+Page 6  of  8 
+
+ 
+ 
+12. ECOLOGICAL INFORMATION 
+
+12.1  Toxicity 
+
+No data available 
+
+12.2  Persistence and degradability 
+
+No data available 
+
+12.3  Bioaccumulative potential 
+
+No data available 
+
+12.4  Mobility in soil 
+
+No data available 
+
+12.5  Results of PBT and vPvB assessment 
+
+PBT/vPvB assessment not available as chemical safety assessment not required/not conducted 
+
+12.6  Other adverse effects 
+
+No data available 
+
+ 
+13. DISPOSAL CONSIDERATIONS 
+
+13.1  Waste treatment methods 
+
+Product 
+Burn in a chemical incinerator equipped with an afterburner and scrubber but exert extra care in igniting as this 
+material is highly flammable. Offer surplus and non-recyclable solutions to a licensed disposal company. Contact a 
+licensed professional waste disposal service to dispose of this material. Dissolve or mix the material with a 
+combustible solvent and burn in a chemical incinerator equipped with an afterburner and scrubber.  
+
+Contaminated packaging 
+Dispose of as unused product.  
+
+ 
+14. TRANSPORT INFORMATION 
+
+Class: 4.3 
+
+DOT (US) 
+UN number: 1428 
+Proper shipping name: Sodium 
+Reportable Quantity (RQ): 10 lbs 
+Poison Inhalation Hazard: No 
+ 
+IMDG 
+UN number: 1428 
+Proper shipping name: SODIUM 
+  
+ 
+IATA 
+UN number: 1428 
+Proper shipping name: Sodium 
+IATA Passenger: Not permitted for transport 
+
+Class: 4.3 
+
+Class: 4.3 
+
+Packing group: I 
+
+Packing group: I 
+
+EMS-No: F-G, S-N 
+
+Packing group: I 
+
+ 
+
+ 
+15. REGULATORY INFORMATION 
+
+SARA 302 Components 
+No chemicals in this material are subject to the reporting requirements of SARA Title III, Section 302. 
+
+SARA 313 Components 
+This material does not contain any chemical components with known CAS numbers that exceed the threshold (De 
+Minimis) reporting levels established by SARA Title III, Section 313. 
+
+SARA 311/312 Hazards 
+Reactivity Hazard, Acute Health Hazard, Chronic Health Hazard 
+
+Massachusetts Right To Know Components 
+
+ 
+Sodium 
+Paraffin oils 
+
+Aldrich - 483745 
+
+CAS-No. 
+7440-23-5 
+8012-95-1 
+
+Revision Date 
+1993-04-24 
+2007-03-01 
+
+Page 7  of  8 
+
+ 
+
+Pennsylvania Right To Know Components 
+
+ 
+Sodium 
+Paraffin oils 
+
+New Jersey Right To Know Components 
+
+ 
+Sodium 
+Paraffin oils 
+
+CAS-No. 
+7440-23-5 
+8012-95-1 
+
+CAS-No. 
+7440-23-5 
+8012-95-1 
+
+Revision Date 
+1993-04-24 
+2007-03-01 
+
+Revision Date 
+1993-04-24 
+2007-03-01 
+
+California Prop. 65 Components 
+This product does not contain any chemicals known to State of California to cause cancer, birth defects, or any other 
+reproductive harm. 
+
+ 
+ 
+16. OTHER INFORMATION 
+
+Full text of H-Statements referred to under sections 2 and 3. 
+
+Asp. Tox. 
+Eye Dam. 
+H260 
+H304 
+H314 
+H318 
+H350 
+Skin Corr. 
+Water-react. 
+
+Aspiration hazard 
+Serious eye damage 
+In contact with water releases flammable gases which may ignite spontaneously.  
+May be fatal if swallowed and enters airways. 
+Causes severe skin burns and eye damage. 
+Causes serious eye damage. 
+May cause cancer. 
+Skin corrosion  
+Substances and mixtures, which in contact with water, emit flammable gases 
+
+HMIS Rating 
+
+Health hazard: 
+Chronic Health Hazard: 
+Flammability: 
+Physical Hazard 
+
+NFPA Rating 
+
+Health hazard: 
+Fire Hazard: 
+Reactivity Hazard: 
+Special hazard.I: 
+
+3 
+* 
+4 
+2 
+
+3 
+4 
+2 
+W 
+
+Further information 
+Copyright 2016 Sigma-Aldrich Co. LLC. License granted to make unlimited paper copies for internal use only. 
+The above information is believed to be correct but does not purport to be all inclusive and shall be used only as a 
+guide. The information in this document is based on the present state of our knowledge and is applicable to the 
+product with regard to appropriate safety precautions. It does not represent any guarantee of the properties of the 
+product. Sigma-Aldrich Corporation and its Affiliates shall not be held liable for any damage resulting from handling 
+or from contact with the above product. See www.sigma-aldrich.com and/or the reverse side of invoice or packing 
+slip for additional terms and conditions of sale. 
+ 
+
+Preparation Information 
+Sigma-Aldrich Corporation 
+Product Safety – Americas Region 
+1-800-521-8956 
+ 
+Version: 4.14 
+
+ 
+ 
+ 
+
+Revision Date: 09/27/2017 
+
+Print Date: 11/20/2017 
+
+Aldrich - 483745 
+
+Page 8  of  8 
+
+
